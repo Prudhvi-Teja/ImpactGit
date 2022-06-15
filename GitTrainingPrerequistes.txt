@@ -1,0 +1,2 @@
+Prerequisites are the some demand on the Basic git code
+This is the training of the Git in the impact module for 2 days 
